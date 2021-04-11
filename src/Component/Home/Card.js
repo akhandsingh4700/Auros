@@ -11,6 +11,8 @@ const Shop = () => {
 function changeCount(data){
 console.log(data)
 }
+
+
   return (
     <div className="shop">
       <TopBar />
